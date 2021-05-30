@@ -1,0 +1,532 @@
+commit de21055e4fa01bf06ed7089ee91e89de3495a403
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Sun Oct 20 15:27:03 2019 +0200
+
+    Update sRaidFrames.lua
+
+commit b6bf0d6b23e2c4cac65a31a23a9b2309f8866efb
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Sun Oct 20 14:37:46 2019 +0200
+
+    Update sRaidFrames.lua
+
+commit b73446fa63cfd203100537b068a8114696d1ac1d
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Sun Sep 29 21:28:41 2019 +0200
+
+    Refactor and fix tooltips
+
+commit df99a9540f47d2e8edebe79f3a080c165cb6fe54
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Sun Sep 29 20:02:29 2019 +0200
+
+    Refactor debuffs/buffs
+
+commit 5a59e7968355eb3cbedb10f35e3b912caf33b9a1
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Sat Sep 28 12:01:34 2019 +0200
+
+    Fix buff display
+
+commit f91ae4ff16491d84c3a4e82912511c68d00f6dfd
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Sat Sep 28 11:59:34 2019 +0200
+
+    Remove dialogControl for Spell_EditBox and Aura_EditBox
+
+commit ce74e433f1054836c3a8c75d55283c99fdd6dd8b
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 24 19:40:27 2019 +0200
+
+    Fix for secure error when creating frames
+
+commit 1a0b6978ea41a8aec0649761f190c1a5d2200708
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Sat Sep 14 15:34:21 2019 +0200
+
+    Better combat handling
+
+commit d02dc7cfff0375074b780ecf21fe679fed9f8049
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Fri Sep 13 21:56:57 2019 +0200
+
+    Better heal tracking, only tracks casted heals
+
+commit 98d6087b3642a9f4f2437fc2cb18ff58ca541d85
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Fri Sep 13 20:50:19 2019 +0200
+
+    Typo
+
+commit 3b35df84b5cebe63ffba6dd6f1943fef2ed5946c
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Thu Sep 12 17:47:45 2019 +0200
+
+    Be more modern
+
+commit 33ca08a130993f6734722bdf51806a3e3770ec4d
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Thu Sep 12 17:46:09 2019 +0200
+
+    Bugfix
+
+commit 73a835aa53111ccf17d05baae3c9bc92f26ef95c
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Thu Sep 12 17:39:14 2019 +0200
+
+    Forget about it
+
+commit c30d5131b40bcbab1b8e263bf50d8c9e18d53efb
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Thu Sep 12 17:35:04 2019 +0200
+
+    Bugfix
+
+commit 4fd72cf9d887b0fb3ff419c88cd01423a6e2442a
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Thu Sep 12 17:30:31 2019 +0200
+
+    Bugfix for now
+
+commit 31659ec039de4afdefdc0920cf119492a942c730
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Thu Sep 12 17:28:54 2019 +0200
+
+    Bugfix
+
+commit bd5f4c569a38e068fc08f83db116e49b89400a26
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Thu Sep 12 10:27:10 2019 +0200
+
+    Bugfix, remove growth per group set
+
+commit 50fb615db4c8b61d3d5932683ccfbdf5ad0dfa41
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Wed Sep 11 09:54:53 2019 +0200
+
+    Update sRaidFramesHealing.lua
+
+commit bba7d268ef1b2669ac151ce5f834743994fff0fd
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Wed Sep 11 09:50:39 2019 +0200
+
+    Fix healing
+
+commit 1f7fe6e7099c4023f5ca7fc70edebf671f72d5bb
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Wed Sep 11 09:15:53 2019 +0200
+
+    Update sRaidFrames.lua
+
+commit 48698bb274cb0554b175ecb10ba6e1f5ffb8b6f6
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Wed Sep 11 09:13:27 2019 +0200
+
+    Update sRaidFrames.lua
+
+commit 638fe7c7e7fe90be73574fdaa88baaa984a6d323
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Wed Sep 11 09:06:27 2019 +0200
+
+    Update .pkgmeta
+
+commit 9ce6669ac99377ff73042e3135471cb307adfd07
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Wed Sep 11 09:05:18 2019 +0200
+
+    Update .pkgmeta
+
+commit ceeb10c8c3292a6fb784540a21e5a6d23dc94a4e
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Wed Sep 11 08:58:50 2019 +0200
+
+    Update .pkgmeta
+
+commit 726f4f2ae025224c69dc2dedd62c60556039ece5
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Wed Sep 11 08:58:15 2019 +0200
+
+    Update sRaidFrames.toc
+
+commit b9981c37b94413d0fa0db777961578c132dcd244
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Tue Sep 10 11:39:53 2019 +0200
+
+    Watch UNIT_HEALTH_FREQUENT and UNIT_POWER_UPDATE
+
+commit 0ab742760e20631ec6b949bb2786ec206ade1c65
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Tue Sep 10 11:37:26 2019 +0200
+
+    Watch INCOMING_RESURRECT_CHANGED
+
+commit 0e216fbeffb92a8590465cd4ee0442d97597552e
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Fri Sep 6 23:27:04 2019 +0200
+
+    Refactor and add support for UnitHasIncomingResurrection
+
+commit 758192f63707738d22777181e6f2533724d13e7b
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Fri Sep 6 21:51:00 2019 +0200
+
+    Fix tooltip
+
+commit fbb61b76495e55204c8a7c03f11dfd01a0c54684
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Fri Sep 6 19:08:39 2019 +0200
+
+    Reorder options
+
+commit 8c25bf6b20bd511625becd6a77d20d285aaaec5c
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Fri Sep 6 18:56:43 2019 +0200
+
+    Don't move frames in combat
+
+commit 8864ab5a038247b4825fd1682ff4887f0c548bbf
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Fri Sep 6 18:21:27 2019 +0200
+
+    Debuffs now work
+
+commit 16e20b3b207590fa3786c2c6ce13a5ff1a9fa9d8
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Fri Sep 6 18:11:03 2019 +0200
+
+    Yikes
+
+commit a805311adcd5f66272ff21901f92996942737389
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Fri Sep 6 18:03:06 2019 +0200
+
+    I did not write this shit.. wtf
+
+commit 67c623b199d6c46606af172f7a9f60b14e527375
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Fri Sep 6 18:01:08 2019 +0200
+
+    Removed layouts and did a lot of optimizations. Auras now work
+
+commit b01fbdc901bfb92d206416c9041ffdc9a2547afa
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Fri Sep 6 16:35:33 2019 +0200
+
+    Pretty options
+
+commit 70228d182481ebd506f538ca01c47f43a664e431
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Fri Sep 6 16:28:49 2019 +0200
+
+    Tighten frames and allow to set background
+
+commit 32c41e40cfcebae333b84fdea2337cb702b1b726
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Thu Sep 5 07:59:27 2019 +0200
+
+    function sRaidFrames:UnitByRaidId(id)
+
+commit df67b90123b00bbc2fd9600e35274874f8ab894c
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Thu Sep 5 07:58:25 2019 +0200
+
+    Refactor
+
+commit bb4ba6e87d86dc57291ff50d169b8107e8562485
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Thu Sep 5 07:55:01 2019 +0200
+
+    Bugfix
+
+commit 52fe5e2c87ea088247f0bcc5d9e329249e9501cc
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Thu Sep 5 07:43:32 2019 +0200
+
+    More cleanup
+
+commit e6a2337690164c0222326d756ddbc67bcef7d3a6
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 23:46:21 2019 +0200
+
+    Update sRaidFrames.lua
+
+commit 59e5bd5906ed3ff1afdd66de8b10f336520b3322
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 23:45:30 2019 +0200
+
+    Now works in groups
+
+commit 1676dc5ec72dd328b4686eb51a34c31e712a8c42
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 23:25:32 2019 +0200
+
+    It works!
+
+commit 0bf33a499ba62d5ce6aac49ed1d2d56ed5e419a4
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 20:33:39 2019 +0200
+
+    Hide stuff in Classic
+
+commit 1be7bc87a686c9c215c6be7df01f1ad5fe34b6be
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 20:26:12 2019 +0200
+
+    Update sRaidFramesOptions.lua
+
+commit c3e099d624f4763ccf7cee62aba5fa0b599a5ece
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 20:25:34 2019 +0200
+
+    Update sRaidFramesOptions.lua
+
+commit ffd942b987c04c680fee18708a4d80293c79bc10
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 20:25:13 2019 +0200
+
+    Fix bad merge
+
+commit 376828adce1edd5c538baea3e6cf4c839a8e2927
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 20:14:50 2019 +0200
+
+    remove frequent health update option
+
+commit bc99c44945776cf522764e08365b25781fe32728
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 20:07:57 2019 +0200
+
+    Bugfix
+
+commit ac60d6dd9d5d687c797160d9e56f58e4b8f3db0b
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 20:06:08 2019 +0200
+
+    Better fix
+
+commit 5dfe4716cbdc8b71bcf56f95a6db21756bab97c8
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 20:05:37 2019 +0200
+
+    BOMB_HEALS not supported
+
+commit bb4fbccdd85cdeed394fc72c49e46e37b2a482e1
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 20:03:14 2019 +0200
+
+    Fix ready check
+
+commit 0062839b34635b714ad54ba99ee233ffc4713ce6
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 20:02:19 2019 +0200
+
+    Fix HealComm and disable Banzai
+
+commit e1056e1be5c8d682ceb34c58eba75f6a8f970868
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 19:13:33 2019 +0200
+
+    Fix UNIT_MANA etc. events
+
+commit 815278b0f34dbb0621b6db79c2a99c7302c44f87
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Wed Sep 4 12:00:55 2019 +0200
+
+    Refactor and cleanup
+    
+    Honestly I don't remember writing any of this code
+
+commit fa09fc577955957e3c3950b20a8ba8aa5a93ab4c
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Wed Sep 4 09:47:32 2019 +0200
+
+    enable-nolib-creation: no
+
+commit bbd2f91f4f60b8c3e200f59f9d5b2fe8ff93f799
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 22:35:29 2019 +0200
+
+    Don't provide console config
+
+commit 6e26b96188d94cc4dbcaf19b9b332742c7ec8992
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 22:32:46 2019 +0200
+
+    Fix slash commands
+
+commit a448993d4f7ed81ab7f75ead1b996041ef888d7d
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 22:31:52 2019 +0200
+
+    Remove old code
+
+commit c8c2ba6d0a6c18ea113b041ba16f739d86770e24
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 22:30:53 2019 +0200
+
+    Syntax
+
+commit db7bdbb0b15cfc51fe3d421b057d8dfa6d3bed51
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 22:30:35 2019 +0200
+
+    Better defaults
+
+commit 68029ea659e827a9b07d88d2ba0e191a9f0dd33b
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 22:26:53 2019 +0200
+
+    Bugfix
+
+commit ef545cd79cea9f81c28f76b780da1442f537fd01
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 22:24:24 2019 +0200
+
+    add isClassic detection and fix slash commands in retail
+
+commit 4eb9ac47d7604553a17fd1d49a5d9b1882878c35
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 21:54:16 2019 +0200
+
+    Bugfix
+
+commit c646a16ed94b61dc5957d6dfc77f85531de35574
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 21:53:51 2019 +0200
+
+    Reordering this, because it's broken
+
+commit 3e8a754abf53906a89c5d75ea5d5ebf94c471277
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 21:44:45 2019 +0200
+
+    Make known classes magically dynamic
+
+commit 3e8a754abf53906a89c5d75ea5d5ebf94c471277
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 21:44:45 2019 +0200
+
+    Make known classes magically dynamic
+
+commit c9bce72452e61948cfcf5abb97a720ae8098d196
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Tue Sep 3 21:28:52 2019 +0200
+
+    Update README.md
+
+commit 22b09a4a6425b223223c8bedf74e98c459e37c2e
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Tue Sep 3 21:28:31 2019 +0200
+
+    Update README.md
+
+commit 5fac82818a6cbe4eba0bfe60e24f0b649a1bd216
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 21:27:59 2019 +0200
+
+    Support 80200, because why not
+
+commit 98999ee8a87f2a10d7b18df6b3afc6a0cc306075
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 21:07:50 2019 +0200
+
+    Finally figured out UnitPowerType
+
+commit 3f67b14dca9b5438de285cb48e0c83d93dc5b695
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 20:38:09 2019 +0200
+
+    Add slash commands
+
+commit cee7335f99fa2c94e16f90e51640f35100a2aba4
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 20:35:30 2019 +0200
+
+    Fix powerfilter options
+
+commit eeb5b9bbf58d4b8e0a44cce0c593ab1fce2eea39
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 20:17:11 2019 +0200
+
+    Fix powerfilter
+
+commit eeb5b9bbf58d4b8e0a44cce0c593ab1fce2eea39
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 20:17:11 2019 +0200
+
+    Fix powerfilter
+
+commit f5ce20a9f2da12103226d9b54920dda6151c1836
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Tue Sep 3 19:34:51 2019 +0200
+
+    Update README.md
+
+commit c48d5a594933bb5d5b65991cbe9170a6b79311b0
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Tue Sep 3 19:08:56 2019 +0200
+
+    Create README.md
+
+commit 866f431005e28a7bc210fd12af3867fb59673b6d
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 19:08:40 2019 +0200
+
+    Only Classic compat
+
+commit d9ad7f78521b5d9e910ad77b67e79be9464df1b0
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 19:07:10 2019 +0200
+
+    Classic adaption, stop throwing errors
+
+commit c311766590bda925bb15cba25102975d8ec00b2d
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 18:46:00 2019 +0200
+
+    Switch to LibClassicHealComm-1.0
+
+commit cc82f16e384ce64f22b29652c3ed610affc2d5b9
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 18:45:29 2019 +0200
+
+    Switch to LibClassicHealComm-1.0
+
+commit eac74772c5a4d9d8bd982ec56e2114b6f78adf27
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 18:38:47 2019 +0200
+
+    Reverting post-classic changes
+
+commit dc318a5df23cc0ddc9bb105e648b1e7cb2f89ea2
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 18:36:04 2019 +0200
+
+    Reverting post-classic changes
+
+commit b1031ab985cb90d521db47c7390cc1ac685930b8
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 18:23:42 2019 +0200
+
+    Update .pkgmeta
+    
+    Trying to get this to work
+
+commit c84e21308aa91f45a3a5b0cf451ddbac113f8310
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 18:17:08 2019 +0200
+
+    Create .pkgmeta
+
+commit 6e3777e562fb8de97cc93acb3a53d594f46be092
+Author: Tom Sommer <mail@tomsommer.dk>
+Date:   Tue Sep 3 18:04:31 2019 +0200
+
+    Include forgotten stuff
+
+commit 56c388c158751fec79555394702f9b8789326042
+Author: Tom Sommer <tomsommer@users.noreply.github.com>
+Date:   Tue Sep 3 17:55:27 2019 +0200
+
+    Add files via upload
+
