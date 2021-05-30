@@ -305,7 +305,7 @@ function sRaidFrames:OnInitialize()
 	self:chatUpdateDebuffMenu()
 	self:chatUpdateStatusElements()
 
-	self.master = CreateFrame("Frame", "sRaidFrame", UIParent)
+	self.master = CreateFrame("Frame", "sRaidFrame", UIParent, BackdropTemplateMixin and "BackdropTemplate")
 	self.master:SetMovable(true)
 	self.master:SetScale(self.opt.Scale)
 
@@ -1376,7 +1376,7 @@ function sRaidFrames:CreateUnitFrame(...)
 	f.auraFrames = {}
 
 	for i = 1, 3 do
-		local auraFrame = CreateFrame("Button", nil, f)
+		local auraFrame = CreateFrame("Button", nil, f, BackdropTemplateMixin and "BackdropTemplate")
 		auraFrame.texture = auraFrame:CreateTexture(nil, "ARTWORK")
 		auraFrame.texture:SetAllPoints(auraFrame);
 		auraFrame.count = auraFrame:CreateFontString(nil, "OVERLAY")
@@ -1412,10 +1412,10 @@ function sRaidFrames:CreateUnitFrame(...)
 		tinsert(f.auraFrames, auraFrame)
 		f["aura"..i] = auraFrame
 	end
-
+	
 	local texture = Media:Fetch("statusbar", self.opt.Texture)
 
-	f.hpbar = CreateFrame("StatusBar", nil, f)
+	f.hpbar = CreateFrame("StatusBar", nil, f, BackdropTemplateMixin and "BackdropTemplate")
 	f.hpbar:SetStatusBarTexture(texture)
 	f.hpbar:SetMinMaxValues(0,100)
 	f.hpbar:SetValue(0)
@@ -1427,7 +1427,7 @@ function sRaidFrames:CreateUnitFrame(...)
 	local color = self.opt.HealthTextColor
 	f.hpbar.text:SetTextColor(color.r, color.g, color.b, color.a)
 
-	f.mpbar = CreateFrame("StatusBar", nil, f)
+	f.mpbar = CreateFrame("StatusBar", nil, f, BackdropTemplateMixin and "BackdropTemplate")
 	f.mpbar:SetStatusBarTexture(texture)
 	f.mpbar:SetMinMaxValues(0,100)
 	f.mpbar:SetValue(0)
@@ -1447,7 +1447,7 @@ function sRaidFrames:CreateUnitFrame(...)
 
 	self:SetWHP(f.hpbar.text, f.hpbar:GetWidth(), f.hpbar:GetHeight(), "CENTER", f.hpbar, "CENTER", 0, 0)
 	self:SetWHP(f.statustext, f.mpbar:GetWidth(), f.mpbar:GetHeight(), "CENTER", f.mpbar, "CENTER", 0, 0)
-	
+
 	f:SetBackdrop({
 	 	bgFile = Media:Fetch("background", sRaidFrames.opt.BackgroundTexture),
 		tile = true,
@@ -1623,7 +1623,7 @@ function sRaidFrames:CreateGroupFrame(id)
 	f:SetMovable(true)
 	f:SetID(id)
 
-	f.header = CreateFrame("Frame", "sRaidFramesGroupHeader" .. id, f, "SecureRaidGroupHeaderTemplate")
+	f.header = CreateFrame("Frame", "sRaidFramesGroupHeader" .. id, f, "SecureRaidGroupHeaderTemplate", BackdropTemplateMixin and "BackdropTemplate")
 	f.header:SetAttribute("template", "SecureUnitButtonTemplate")
 	f.header:SetAttribute("showPlayer", true)
 	f.header:SetAttribute("showRaid", true)
